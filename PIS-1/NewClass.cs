@@ -7,5 +7,12 @@ namespace PIS_1
 {
     class NewClass
     {
+        static void Main(string[] args)
+        {
+   
+        }
+
     }
+
+   
 }
